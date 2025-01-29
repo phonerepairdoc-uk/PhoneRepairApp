@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "innate-infusion-402619",
+  "private_key_id": "f007680f2de789df7bbcd8d4ec8afebacf0f8774",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8w27wG36Wsj0d\nkm05B+SYqS3InCe/YpH/Tg/JLneuvJeWdkrKpnRay4sgIzeiUnPP1cFHkb9wcbi9\nMcscSiv9rrfi4cXAaJLkUCZhkVAWaNaqMyo4eYnB4+tjx1bMF9C824yetkFU9ZB/\nekNYhzlFDGWz6gVMjaIXCtQshmRqQfh4hCn9Bd898GxlaDm/fcsCg3f5sNUG3IXp\ns5pNz5xxvc19IWZRoJMwuC7S0SIQ/Fr8ubtcvOAHvJ5Hepbl/RquuBQ3oMeZJ06w\n9+U1MkIHpPyO+jKAGjJ9GomFGUZ6JqzXCKN28luF5OOtMGiHKVaG/z+kTDTVvALR\nU9wkJ3wrAgMBAAECggEADbFXkM9NxXy0djqy9Zoe+Pv8uDqrn3R1BsIQ3xUh1WkU\nzfNSxZSBiDyPoQss8/drMz5cQObPrkZxkjfUdf7jZgmQiUK7Z5OuZCV0Q0uZNabx\nO3Nusp4OYiQ4ZQqGv1NS7wA2GSU7ZABUNQsXa4qTmvClSAHH1J/JjEZa0cgF7Lcw\nW0w93InxRvYOBlAyJ2tkLt7VugTEidOruIIviiV2u63iqf5d8bJL8oSMN4fWKzgZ\nizEcUIvfhCmMfmn04TnXusX28MdA38hFjKKTqTyRu331l2uvDAKWUJG0qCDC7PX+\nO72QKJh8lQtk09mkc1iBBAVBhpDMehLw/7PRUOsL8QKBgQDwkjrlMsEqm00k+7qv\nXx5W4So38YfHRFpVSb1xNzdOlzyifUP8RcCbujujOtZaFCeL/f+SvpyfVgxF3QAy\nBbJVXDWPZkUFMbPIWUaOaVHiqPXk+kvQ+HOoJ1ZQoYgw2dDdYDF1lEZVV/5l34by\n89qsvLJHe27k1MjFwKBVRp0PrwKBgQDI3pt894MuSUimtNb6uhxFX/l5SBtYlBRA\n/EOzdpuz/4UG0bbchtqZ1Chkmj0IOhjw2cBS9jamk0KsNSSYnZZue+H0kbKw5rCE\nraErFKsd/k9lsh85X+3tWwrqD/hPlUzqMBfpYWYQb5kQGVlQsHE3EBMo2V2Gj1v4\nv+IbBPBeRQKBgQCdaeHVxY82FOa2s2zlgeT1TmJ0trt0vRoqwpSON2YeK8HGRRcu\nRGoSvBp35XELAjMaXDpWSBlt/T0Mnd6Z3LZjOnHlgjLZgjs0do4/c1Tcblhv2wOv\nGlN7jTniir/1zyDnKiFS4ZHgGDLjcA76fGvzKYmyUmcunrk9BJ0lD46ICwKBgCdH\n4QA/JtgWXK69Do1Zd83ZRuAAydg4nP1YV6TwvOImRc1flXLqrDUI2B1UTDsfoWD4\nNDQFEgrhIViry8xMhO52K2m4VElj04EeszXJhO0Inl40xwZhTBXuh+Pd26E0gSYK\n4aIx+dOc/0G2s1CkMH+kFRsX5sI5prKuU3kVLixBAoGAO7gncWb+yxQJeYM/wU4d\n8/hi2Q8ZuScLKBsFZRBZ+/Ev5NmExbJGW9o59Pv5QOP9smqipixyPdB1XF2ShSYh\nSWhSbxPqwKpp9AHqcDB1sd03vx6WGZtjb241B+TdcN1bbJmBiK9J86ZgZxpc3Jod\nwEbeFUtOCf28yMiqdWPLjiE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-api-access@innate-infusion-402619.iam.gserviceaccount.com",
+  "client_id": "104242315384885677682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-api-access%40innate-infusion-402619.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
