@@ -50,12 +50,14 @@ def repair_inquiry_web_interface():
     # Step 1: Device Details
     st.header("Device Information")
     device_type = st.radio("What type of device do you need repaired?", list(device_images.keys()))
-... 
-...     # Show selected device image
-...     if device_type in device_images and os.path.exists(device_images[device_type]):
-...         st.image(device_images[device_type], caption=device_type, width=200)
-...     else:
-...         st.warning("Image not found for this device.")
+    
+... # Show selected device image
+if device_type in device_images:
+    image_path = device_images[device_type]
+    if os.path.exists(image_path):
+        st.image(image_path, caption=device_type, width=200)
+    else:
+        st.warning(f"Image not found: {image_path}")
 ... 
 ...     device_model = st.selectbox("What is the model of the device?", [
 ...         "iPhone 7", "iPhone 8", "iPhone X", "iPhone XS", "iPhone 12", "iPhone 12 Pro",
